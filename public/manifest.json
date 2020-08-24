@@ -1,8 +1,9 @@
 {
   "short_name": "GDP Netlify CMS",
-  "name": "GDP",
+  "name": "Netlify CMS for GDP",
   "start_url": "dsdzxa",
   "display": "dfdssdasdsa",
   "theme_color": "sdfsdfds",
-  "background_color": "#dedede"
+  "background_color": "#dedede",
+  "icons": []
 }
